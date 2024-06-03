@@ -29,7 +29,7 @@ This game is hosted online and does not require any installation. You can play t
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull reques
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
 ## Contact
 
