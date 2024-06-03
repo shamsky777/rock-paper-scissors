@@ -92,7 +92,7 @@ function playGame(playerMove){
     
     document.querySelector('.moves')
         .innerHTML = `You<img src="image/${playerMove}-emoji.png" class="move-icon">
-        Computer<img src="image/${computerMove}-emoji.png" class="move-icon">.`;
+        <img src="image/${computerMove}-emoji.png" class="move-icon"> Computer.`;
 
     /*
     alert(`
